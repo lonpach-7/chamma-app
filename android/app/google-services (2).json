@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611679736616",
+    "project_id": "chamma-6429d",
+    "storage_bucket": "chamma-6429d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611679736616:android:9e7a2f890f094e5bc0761d",
+        "android_client_info": {
+          "package_name": "com.example.chamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzyvLUCez-S6iTSmzFgghRAM3AuK93T8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
